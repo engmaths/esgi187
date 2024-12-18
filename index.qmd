@@ -1,0 +1,24 @@
+---
+title: "ESGI 187"
+---
+
+The 187th ESGI will be held on **14-18 July 2025** at the **University of Bristol**. 
+
+# About the ESGI
+
+Across an intensive five-day workshop, the European Study Group with Industry (ESGI) brings mathematical scientists and partners from business, industry, and government together to work side-by-side to solve the real and important issues their organisations are facing today. Established in 1968, European Study Groups with Industry are a well-established and cost-effective way to make real progress on pressing challenges.  
+
+# ESGI Format
+ 
+ESGI 187 will follow the tried-and-tested format:
+
+* On the first day of the workshop, each organisation (usually 8-10) present their technical challenges.
+
+* The mathematical scientists then split into groups, and for the next three days work closely with each external partner representative to brainstorm ideas, model scenarios, and problem solve.
+
+* On the final day, each group presents their progress and recommended routes forward. 
+
+* After the meeting, appropriate deliverables from the week will be made available to the organisation; traditionally this has been a technical report summarising the week’s work (see MIIR or MIIS browsable by sector and partner - for examples).
+
+ * In principle, there are no limits to the problems that can be tackled by mathematical modelling! We are expecting over 70 mathematical scientists from across the UK and Europe to participate in our workshop with expertise in, for example, statistical modelling, fluid mechanics, thermodynamics, and data science.
+

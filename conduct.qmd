@@ -9,27 +9,25 @@ The University of Bristol is dedicated to creating a welcoming, inclusive, and s
 
 The following behaviours are considered harassment and are unacceptable within our conference setting:
 
-* Discriminatory Comments: Making offensive or belittling comments related to age, body size, disability, ethnicity, gender identity and expression, physical appearance, sexual orientation, socio-economic status, religion, or other personal characteristics.
+* **Discriminatory comments**: making offensive or belittling comments related to age, body size, disability, ethnicity, gender identity and expression, physical appearance, sexual orientation, socio-economic status, religion, or other personal characteristics.
 
-* Inappropriate Language: Using language that is inappropriate or offensive. This includes remarks that may not be directly aimed at an individual but create a hostile environment.
+* **Inappropriate language**: using language that is inappropriate or offensive. This includes remarks that may not be directly aimed at an individual but create a hostile environment.
 
-* Intimidation and Bullying: Engaging in threats, stalking, or other forms of intimidation.
+* **Intimidation and bullying**: engaging in threats, stalking, or other forms of intimidation.
 
-* Unauthorized Recording: Taking photographs or recording activities without the explicit consent of the individuals being recorded, mainly when it serves to harass or intimidate.
+* **Unauthorized recording**: taking photographs or recording activities without the explicit consent of the individuals being recorded, mainly when it serves to harass or intimidate.
 
-* Inappropriate Physical Contact: Engaging in unwanted or unsolicited physical contact.
+* **Inappropriate physical contact**: engaging in unwanted or unsolicited physical contact.
 
-* Unwelcome Sexual Attention: Making unwelcome sexual advances, comments, or gestures.
+* **Unwelcome sexual attention**: making unwelcome sexual advances, comments, or gestures.
 
-# Reporting and Enforcement
+# Reporting and enforcement
 
-* Immediate Action: If you witness or experience conduct that violates our code of conduct, please do not hesitate to intervene if you feel safe doing so or promptly report the behaviour.
+* Immediate action: if you witness or experience conduct that violates our code of conduct, please do not hesitate to intervene if you feel safe doing so or promptly report the behaviour by [contacting the organisers](contact.qmd).
 
-* Contact Information: Concerns 
+* Responsibility and accountability: The School of Engineering Mathematics and Technology will take any reports seriously. All reports will be investigated promptly and thoroughly, and appropriate action will be taken. If you provide your details, then we will discuss with you different options to deal with the incident to ensure that it is dealt with in a manner that suits you. 
 
-* Responsibility and Accountability: The School of Mathematics will take any reports seriously. All reports will be investigated promptly and thoroughly, and appropriate action will be taken. If you provide your details, then we will discuss with you different options to deal with the incident to ensure that it is dealt with in a manner that suits you. 
-
-# Commitment to Improvement
+# Commitment to improvement
 
 We continually seek to improve our policies and practices to ensure they meet the high standards of inclusivity and safety we set for our community. Feedback on the Code of Conduct is welcomed and can be sent to the conference organizers.
 

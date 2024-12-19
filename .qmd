@@ -1,8 +1,0 @@
----
-title: "Venue"
----
-
-ESGI 187 will be hosted by the School of Engineering Mathematics and Technology at the Univeristy of Bristol.
-
-* Add address
-* Add directions from train station

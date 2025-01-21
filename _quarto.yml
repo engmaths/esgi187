@@ -8,9 +8,9 @@ website:
       - href: index.qmd
         text: Home
       - href: industry.qmd
-        text: Organisations
+        text: For organisations
       - href: participants.qmd
-        text: Participants
+        text: For participants
       - conduct.qmd
       - venue.qmd
       - contact.qmd

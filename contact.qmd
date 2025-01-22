@@ -4,6 +4,6 @@ title: "Contact"
 
 For further information about the study group please contact the event organisers:
 
-* [Zahraa Abdallah](zahraa.abdallah@bristol.ac.uk)
-* [Matthew Hennessy](matthew.hennessy@bristol.ac.uk)
-* [Stuart Thomson](stuart.thomson@bristol.ac.uk)
+* [Zahraa Abdallah](mailto:zahraa.abdallah@bristol.ac.uk)
+* [Matthew Hennessy](mailto:matthew.hennessy@bristol.ac.uk)
+* [Stuart Thomson](mailto:stuart.thomson@bristol.ac.uk)

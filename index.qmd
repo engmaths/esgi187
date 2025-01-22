@@ -4,6 +4,10 @@ title: "ESGI 187"
 
 The 187th ESGI will be held on **14-18 July 2025** at the **University of Bristol**. 
 
+<!-- ![Clifton Wood in Bristol](assets/img/5368_Clifton%20Wood.jpg) -->
+<!-- ![Bristol's Clifton Campus](assets/img/11893_Clifton_campus.jpg) -->
+![Bristol's Clifton Campus with Cabot Tower in the background](assets/img/12293_Campus%20summer%202023-00622.jpg)
+
 # About the ESGI
 
 The European Study Group with Industry (ESGI) is a five-day intense workshop that brings together mathematical and data scientists and partners from business, industry, and government.  Partners present a pressing problem they are currently facing, and mathematical and data scientists work on finding a solution. ESGIs are internationally recognised as a cost-effective means of making real progress on current challenges in just a few days.

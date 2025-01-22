@@ -17,7 +17,7 @@ website:
 
 format:
   html:
-    theme: lumen
+    theme: [united, theme.scss]
     css: styles.css
     toc: true
 

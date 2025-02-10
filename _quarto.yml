@@ -11,6 +11,7 @@ website:
         text: For organisations
       - href: participants.qmd
         text: For participants
+      - registration.qmd
       - conduct.qmd
       - venue.qmd
       - contact.qmd

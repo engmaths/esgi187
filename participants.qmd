@@ -8,7 +8,7 @@ accommodation, lunches, and evening events.
 
 # Registration
 
-Event registration will open in February.
+[Event registration](registration.qmd) will open in February.
 
 
 # Accommodation

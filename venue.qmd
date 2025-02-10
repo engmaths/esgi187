@@ -6,10 +6,11 @@ ESGI 187 will be hosted by the School of Engineering Mathematics and Technology 
 The school is housed in the Ada Lovelace Building, which
 is part of Bristol's historic Clifton campus.
 
-School of Engineering Mathematics and Technology  
-Ada Lovelace Building  
-Tankard's Close  
-Bristol  
+School of Engineering Mathematics and Technology
+Ada Lovelace Building
+University of Bristol
+Tankard's Close
+Bristol
 BS8 1TW
 
 

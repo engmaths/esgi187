@@ -4,7 +4,28 @@
     "href": "venue.html",
     "title": "Venue",
     "section": "",
-    "text": "ESGI 187 will be hosted by the School of Engineering Mathematics and Technology at the Univeristy of Bristol. The school is housed in the Ada Lovelace Building, which is part of Bristol’s historic Clifton campus.\nSchool of Engineering Mathematics and Technology Ada Lovelace Building University of Bristol Tankard’s Close Bristol BS8 1TW"
+    "text": "ESGI 187 will be hosted by the School of Engineering Mathematics and Technology at the Univeristy of Bristol. The school is housed in the Ada Lovelace Building, which is part of Bristol’s historic Clifton campus.\nSchool of Engineering Mathematics and Technology\nAda Lovelace Building\nUniversity of Bristol\nTankard’s Close\nBristol\nBS8 1TW"
+  },
+  {
+    "objectID": "registration.html",
+    "href": "registration.html",
+    "title": "Registration",
+    "section": "",
+    "text": "Registration for ESGI 187 is now open! There are separation registration processes for academic staff and PhD students."
+  },
+  {
+    "objectID": "registration.html#registration-for-academic-staff",
+    "href": "registration.html#registration-for-academic-staff",
+    "title": "Registration",
+    "section": "Registration for academic staff",
+    "text": "Registration for academic staff\nIf you are an academic staff member (post-doc, research fellow, lecturer or above), then please register using the ESGI 187 registration form for academics. The early-bird registration deadline is 1 May."
+  },
+  {
+    "objectID": "registration.html#application-process-for-phd-students",
+    "href": "registration.html#application-process-for-phd-students",
+    "title": "Registration",
+    "section": "Application process for PhD students",
+    "text": "Application process for PhD students\nThere are a limited number of funded places for PhD students to attend ESGI 187. Students with a funded place will be provided with a room in university accommodation free of charge. To apply for a funded place, please complete the ESGI 187 application form for PhD students. The first round of applications will close on 1 May. Outcomes are expected to be announced by June.\nIf you are a PhD student at Bristol or you do not require accommodation, please use the application form anyway."
   },
   {
     "objectID": "index.html",
@@ -21,18 +42,11 @@
     "text": "The University of Bristol is dedicated to creating a welcoming, inclusive, and safe environment for all participants, including staff, students, and visitors. We are committed to a conference free from harassment, where everyone is treated with respect, dignity, and courtesy. Our community thrives on cooperation and mutual respect, and we expect all participants to contribute to maintaining these standards.\n\nUnacceptable Behaviours\nThe following behaviours are considered harassment and are unacceptable within our conference setting:\n\nDiscriminatory comments: making offensive or belittling comments related to age, body size, disability, ethnicity, gender identity and expression, physical appearance, sexual orientation, socio-economic status, religion, or other personal characteristics.\nInappropriate language: using language that is inappropriate or offensive. This includes remarks that may not be directly aimed at an individual but create a hostile environment.\nIntimidation and bullying: engaging in threats, stalking, or other forms of intimidation.\nUnauthorized recording: taking photographs or recording activities without the explicit consent of the individuals being recorded, mainly when it serves to harass or intimidate.\nInappropriate physical contact: engaging in unwanted or unsolicited physical contact.\nUnwelcome sexual attention: making unwelcome sexual advances, comments, or gestures.\n\n\n\nReporting and enforcement\n\nImmediate action: if you witness or experience conduct that violates our code of conduct, please do not hesitate to intervene if you feel safe doing so or promptly report the behaviour by contacting the organisers.\nResponsibility and accountability: The School of Engineering Mathematics and Technology will take any reports seriously. All reports will be investigated promptly and thoroughly, and appropriate action will be taken. If you provide your details, then we will discuss with you different options to deal with the incident to ensure that it is dealt with in a manner that suits you.\n\n\n\nCommitment to improvement\nWe continually seek to improve our policies and practices to ensure they meet the high standards of inclusivity and safety we set for our community. Feedback on the Code of Conduct is welcomed and can be sent to the conference organizers."
   },
   {
-    "objectID": "participants.html",
-    "href": "participants.html",
-    "title": "Information for participants",
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
     "section": "",
-    "text": "Please read below for information about registration, accommodation, lunches, and evening events.\n\nRegistration\nEvent registration will open in February.\n\n\nAccommodation\nA limited number of rooms in university accommodation have been reserved for ESGI participants and problem presenters. These rooms are available from Monday 14 to Friday 18 July. A smaller number of rooms are available from Sunday 13 July to Friday 18 July. Accommodation can be requested during event registration and will be provided free of charge.\nRooms include a private queen-sized bed with pillows and linen, desk with chair, shower pod (shower, mirror, toilet, sink). Towels will be provided. All rooms are in flats. Each flat has a communal space with kitchen, table with chairs, and a sofa.\nPlease note: the accommodation provided is not accessible; all rooms are in flats that are accessed by stairs. The rooms are self-catering and a shared kitchen space is provided.\n\n\nLunches\nLunch will be provided free of charge. Lunch will take place in the common room of the Ada Lovelace Building.\n\n\nEvening events\nTBA"
-  },
-  {
-    "objectID": "registration.html",
-    "href": "registration.html",
-    "title": "Registration",
-    "section": "",
-    "text": "Registration for ESGI participants will open in mid-February."
+    "text": "For further information about the study group please contact the event organisers:\n\nZahraa Abdallah\nMatthew Hennessy\nStuart Thomson"
   },
   {
     "objectID": "industry.html",
@@ -42,10 +56,10 @@
     "text": "If you think that your organisation would benefit from presenting a problem at ESGI 187, then please submit an expression of interest form. The event organisers will arrange a time for an online meeting with you shortly after to discuss problem ideas or provide more information about the event.\nAlmost all real-world problems have some mathematical or data modelling aspect to them, although this may not be recognisable at first. Indeed, from our own experience, some of the most successful study group problems were not well-defined in technical terminology at the start of the study group. Study group problems can come from a wide range of areas, such as engineering, electronics, transport, agriculture, energy, finance, and medicine. For more information on past study groups, including a description of some of the problems which have been presented at previous meetings, see the project descriptions from last year’s UK ESGI.\nCompany representatives may be present only on the first day (to expose their problems) and on the last day (for the results), but they may also stay the entire week to brainstorm ideas and provide feedback.\nAfter the event, a report on each problem will be sent to the company. Funding may be available for the group to visit your organisation after the event to discuss follow-up work.\nThere is a fee for presenting a problem at ESGI 187. For more information on fees or for general inquires about presenting a problem or the event, please contact the organisers."
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
+    "objectID": "participants.html",
+    "href": "participants.html",
+    "title": "Information for participants",
     "section": "",
-    "text": "For further information about the study group please contact the event organisers:\n\nZahraa Abdallah\nMatthew Hennessy\nStuart Thomson"
+    "text": "Please read below for information about registration, accommodation, lunches, and evening events.\n\nRegistration\nEvent registration is now open.\n\n\nAccommodation\nA limited number of rooms in university accommodation have been reserved for ESGI participants and problem presenters. These rooms are available from Monday 14 to Friday 18 July. A smaller number of rooms are available from Sunday 13 July to Friday 18 July. Accommodation can be requested during event registration and will be provided free of charge.\nRooms include a private queen-sized bed with pillows and linen, desk with chair, shower pod (shower, mirror, toilet, sink). Towels will be provided. All rooms are in flats. Each flat has a communal space with kitchen, table with chairs, and a sofa.\nPlease note: the accommodation provided is not accessible; all rooms are in flats that are accessed by stairs. The rooms are self-catering and a shared kitchen space is provided.\n\n\nLunches\nLunch will be provided free of charge. Lunch will take place in the common room of the Ada Lovelace Building.\n\n\nEvening events\nTBA"
   }
 ]

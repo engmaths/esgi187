@@ -31,5 +31,5 @@ ESGI 187 will follow the tried-and-tested format:
 :::{layout-ncol=2}
 ![](assets/img/UoB_RGB_24.png)
 
-![](assets/img/ke_hub.png)
+![](assets/img/ke_hub.jpg)
 :::

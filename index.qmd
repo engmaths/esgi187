@@ -27,3 +27,9 @@ ESGI 187 will follow the tried-and-tested format:
 
  * In principle, there are no limits to the problems that can be tackled! We are expecting over 70 mathematical and data scientists from across the UK and Europe to participate in our workshop.  Their expertise often spans statistical modelling, data science, fluid and solid mechanics, heat and mass transport, and machine learning.
 
+
+:::{layout-ncol=2}
+![](assets/img/UoB_RGB_24.png)
+
+![](assets/img/ke_hub.png)
+:::

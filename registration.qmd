@@ -2,13 +2,13 @@
 title: Registration
 ---
 
-Registration for ESGI 187 is now open!  There are separation registration
+Registration for ESGI 187 is now open!  There are separate registration
 processes for academic staff and PhD students.
 
-## Registration for academic staff
+## Registration process for academic staff
 
 If you are an academic staff member
-(post-doc, research fellow, lecturer or above), then please register using the
+(post-doc or above), then please register using the
 [ESGI 187 registration form for academics](https://forms.office.com/e/ichD6JiNCv).
 The early-bird registration deadline is 1 May.
 

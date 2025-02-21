@@ -10,7 +10,8 @@ The 187th ESGI will be held on **14-18 July 2025** at the **University of Bristo
 
 # About the ESGI
 
-The European Study Group with Industry (ESGI) is a five-day intense workshop that brings together mathematical and data scientists and partners from business, industry, and government.  Partners present a pressing problem they are currently facing, and mathematical and data scientists work on finding a solution. ESGIs are internationally recognised as a cost-effective means of making real progress on current challenges in just a few days.
+The [European Study Group with Industry (ESGI)](https://ecmiindmath.org/study-groups/) is a five-day workshop that brings together mathematical and data scientists and partners from business, industry, and government.  Partners present a pressing problem they are currently facing, and mathematical and data scientists work on finding a solution. ESGIs are internationally recognised as a cost-effective means of making real progress on current challenges in just a few days.  Each year there are
+[several ESGI events held throughout Europe](https://ecmiindmath.org/european-study-groups-with-industry/) as a core activity of the [European Consortium for Mathematics in Industry](https://ecmiindmath.org/).
 
 
 # ESGI Format
@@ -32,4 +33,6 @@ ESGI 187 will follow the tried-and-tested format:
 ![](assets/img/UoB_RGB_24.png)
 
 ![](assets/img/ke_hub.jpg)
+
+![](assets/img/ECMI-logo.webp)
 :::

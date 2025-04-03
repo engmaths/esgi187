@@ -38,8 +38,9 @@ We gratefully acknowledge support from:
 
 ![](assets/img/ke_hub.jpg)
 
-![](assets/img/ECMI-logo.webp)
-
 ![](assets/img/IMA.png)
 
+![](assets/img/ECMI-logo.webp)
 :::
+
+![](assets/img/ICMS.png){fig-align="center" width=40%}

@@ -2,8 +2,10 @@
 title: "Contact"
 ---
 
-For further information about the study group please contact the event organisers:
+ESGI 187 is organised by 
 
-* [Zahraa Abdallah](mailto:zahraa.abdallah@bristol.ac.uk)
-* [Matthew Hennessy](mailto:matthew.hennessy@bristol.ac.uk)
-* [Stuart Thomson](mailto:stuart.thomson@bristol.ac.uk)
+* Zahraa Abdallah
+* Matthew Hennessy
+* Stuart Thomson
+
+You can contact the organisers by emailing [uob-esgi187@bristol.ac.uk](mailto:uob-esgi187@bristol.ac.uk).

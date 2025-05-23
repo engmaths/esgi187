@@ -12,6 +12,8 @@ website:
       - href: participants.qmd
         text: For participants
       - registration.qmd
+      - href: problems.qmd
+        text: Problems
       - conduct.qmd
       - venue.qmd
       - contact.qmd

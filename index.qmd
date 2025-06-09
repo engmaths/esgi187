@@ -41,6 +41,12 @@ We gratefully acknowledge support from:
 ![](assets/img/IMA.png)
 
 ![](assets/img/ECMI-logo.webp)
+
+![](assets/img/HIMR%20logo.png)
+
+![](assets/img/ICMS.png)
+
 :::
 
-![](assets/img/ICMS.png){fig-align="center" width=40%}
+
+![](assets/img/EPSRC.png){fig-align="center" width=50%}

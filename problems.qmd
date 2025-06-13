@@ -2,4 +2,8 @@
 title: "Modelling problem descriptions"
 ---
 
-Problem briefs will be released here when they are available.
+Please find ESGI 187 problem descriptions below.  This
+list is being updated regularly as new 
+problems are finalised.  
+
+* [Paebble](/assets/descriptions/Paebbl.pdf)

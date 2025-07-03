@@ -67,7 +67,7 @@
     "href": "registration.html#standard-registration",
     "title": "Registration",
     "section": "Standard registration",
-    "text": "Standard registration\nPlease use the form below to register for ESGI 187:\n\nESGI 187 registration form\n\nThere are a small number of accommodation spaces still\navailable. To request a space, please say that you will join the waiting list for accommodation when submitting the registration form. The organisers will contact you to confirm your accommodation and registration."
+    "text": "Standard registration\nPlease use the form below to register for ESGI 187:\n\nESGI 187 registration form\n\nThere are a small number of accommodation spaces still available. To request a space, please say that you will join the waiting list for accommodation when submitting the registration form. The organisers will contact you to confirm your accommodation and registration."
   },
   {
     "objectID": "registration.html#visa-invitation-letters",
@@ -88,21 +88,7 @@
     "href": "schedule.html",
     "title": "Schedule",
     "section": "",
-    "text": "The schedule below is tentative and subject to change. It will be updated over the next few days.\nRegistration opens on 9 am Monday 14 July. The event finishes at 2 pm on Friday 18 July.\nALB = Ada Lovelace Building"
-  },
-  {
-    "objectID": "schedule.html#monday",
-    "href": "schedule.html#monday",
-    "title": "Schedule",
-    "section": "Monday",
-    "text": "Monday\n\n\n\nTime\nEvent\nPlace\n\n\n\n\n0900-0945\nRegistration\nALB\n\n\n0945-1000\nIntroduction\nALB SM1\n\n\n1000-1100\nProblem presentations\nALB SM1\n\n\n1100-1130\nCoffee\nTBA\n\n\n1130-1230\nProblem presentation\nALB SM1\n\n\n1230-1300\nLogistics presentation\n(LB SM1\n\n\n1300-1400\nLunch\nALB common room\n\n\n1400-1530\nProject work\nTBA\n\n\n1530-1600\nCoffee\nTBA\n\n\n1600-1700\nProject work\nTBA\n\n\n1700-1900\nFree time\n\n\n\n1900-\nEvent dinner\nTBA"
-  },
-  {
-    "objectID": "schedule.html#friday",
-    "href": "schedule.html#friday",
-    "title": "Schedule",
-    "section": "Friday",
-    "text": "Friday\n\n\n\nTime\nEvent\nPlace\n\n\n\n\n0900-0910\nArrival\nALB\n\n\n0910-1030\nFinal presentations\nALB SM1\n\n\n1130-1100\nCoffee\nTBA\n\n\n1100-1220\nFinal presentations\nALB SM1\n\n\n1220-1300\nTBA and Event closing\nALB SM1\n\n\n1300-1400\nLunch\nALB common room"
+    "text": "The schedule below is tentative and subject to change. It will be updated over the next few days.\nRegistration opens at 9 am Monday 14 July. The event finishes at 2 pm on Friday 18 July.\nALB = Ada Lovelace Building\n\nMonday\n\n\n\nTime\nEvent\nPlace\n\n\n\n\n0900-0945\nRegistration\nALB\n\n\n0945-1000\nIntroduction\nALB SM1\n\n\n1000-1100\nProblem presentations\nALB SM1\n\n\n1100-1130\nCoffee\nTBA\n\n\n1130-1230\nProblem presentation\nALB SM1\n\n\n1230-1300\nLogistics presentation\nALB SM1\n\n\n1300-1400\nLunch\nALB common room\n\n\n1400-1530\nProject work\nTBA\n\n\n1530-1600\nCoffee\nTBA\n\n\n1600-1700\nProject work\nTBA\n\n\n1700-1900\nFree time\n\n\n\n1900-\nEvent dinner\nTBA\n\n\n\n\n\nFriday\n\n\n\nTime\nEvent\nPlace\n\n\n\n\n0900-0910\nArrival\nALB\n\n\n0910-1030\nFinal presentations\nALB SM1\n\n\n1130-1100\nCoffee\nTBA\n\n\n1100-1220\nFinal presentations\nALB SM1\n\n\n1220-1300\nEvent closing\nALB SM1\n\n\n1300-1400\nLunch\nALB common room"
   },
   {
     "objectID": "index.html",

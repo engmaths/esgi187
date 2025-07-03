@@ -18,8 +18,8 @@ ALB = [Ada Lovelace Building](/venue.qmd)
 |0945-1000| Introduction | ALB SM1 |
 |1000-1100| Problem presentations|  ALB SM1 |
 |1100-1130| Coffee | TBA |
-|1130-1230| Problem presentation | ALB SM1 |
-|1230-1300| Logistics presentation | ALB SM1 |
+|1130-1230| Problem presentations | ALB SM1 |
+|1230-1300| Event logistics | ALB SM1 |
 |1300-1400| Lunch | ALB common room |
 |1400-1530| Project work | TBA |
 |1530-1600| Coffee | TBA |

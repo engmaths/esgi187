@@ -1,39 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://engmaths.github.io/esgi187/old_registration.html</loc>
-    <lastmod>2025-06-21T15:47:40.860Z</lastmod>
-  </url>
-  <url>
-    <loc>https://engmaths.github.io/esgi187/index.html</loc>
-    <lastmod>2025-06-21T15:47:40.860Z</lastmod>
-  </url>
-  <url>
     <loc>https://engmaths.github.io/esgi187/venue.html</loc>
-    <lastmod>2025-06-21T15:47:40.861Z</lastmod>
-  </url>
-  <url>
-    <loc>https://engmaths.github.io/esgi187/industry.html</loc>
-    <lastmod>2025-06-21T15:47:40.860Z</lastmod>
-  </url>
-  <url>
-    <loc>https://engmaths.github.io/esgi187/contact.html</loc>
-    <lastmod>2025-06-21T15:47:40.860Z</lastmod>
-  </url>
-  <url>
-    <loc>https://engmaths.github.io/esgi187/registration.html</loc>
-    <lastmod>2025-06-21T15:47:40.860Z</lastmod>
-  </url>
-  <url>
-    <loc>https://engmaths.github.io/esgi187/conduct.html</loc>
-    <lastmod>2025-06-21T15:47:40.860Z</lastmod>
+    <lastmod>2025-07-03T07:58:50.968Z</lastmod>
   </url>
   <url>
     <loc>https://engmaths.github.io/esgi187/problems.html</loc>
-    <lastmod>2025-06-21T15:47:40.860Z</lastmod>
+    <lastmod>2025-07-03T07:58:50.968Z</lastmod>
+  </url>
+  <url>
+    <loc>https://engmaths.github.io/esgi187/old_registration.html</loc>
+    <lastmod>2025-07-03T07:58:50.967Z</lastmod>
+  </url>
+  <url>
+    <loc>https://engmaths.github.io/esgi187/conduct.html</loc>
+    <lastmod>2025-07-03T07:58:50.967Z</lastmod>
   </url>
   <url>
     <loc>https://engmaths.github.io/esgi187/participants.html</loc>
-    <lastmod>2025-06-21T15:47:40.860Z</lastmod>
+    <lastmod>2025-07-03T07:58:50.967Z</lastmod>
+  </url>
+  <url>
+    <loc>https://engmaths.github.io/esgi187/registration.html</loc>
+    <lastmod>2025-07-03T07:58:50.968Z</lastmod>
+  </url>
+  <url>
+    <loc>https://engmaths.github.io/esgi187/contact.html</loc>
+    <lastmod>2025-07-03T07:58:50.967Z</lastmod>
+  </url>
+  <url>
+    <loc>https://engmaths.github.io/esgi187/schedule.html</loc>
+    <lastmod>2025-07-03T07:58:50.968Z</lastmod>
+  </url>
+  <url>
+    <loc>https://engmaths.github.io/esgi187/index.html</loc>
+    <lastmod>2025-07-03T07:58:50.967Z</lastmod>
+  </url>
+  <url>
+    <loc>https://engmaths.github.io/esgi187/industry.html</loc>
+    <lastmod>2025-07-03T07:58:50.967Z</lastmod>
   </url>
 </urlset>

@@ -5,12 +5,12 @@ title: Schedule
 The schedule below is tentative and subject to change.
 It will be updated over the next few days.
 
-Registration opens on 9 am Monday 14 July.  The event
+Registration opens at 9 am Monday 14 July.  The event
 finishes at 2 pm on Friday 18 July.
 
 ALB = [Ada Lovelace Building](/venue.qmd)
 
-## Monday
+### Monday
 
 | Time | Event | Place |
 |:------:|:------:|:------:|
@@ -19,7 +19,7 @@ ALB = [Ada Lovelace Building](/venue.qmd)
 |1000-1100| Problem presentations|  ALB SM1 |
 |1100-1130| Coffee | TBA |
 |1130-1230| Problem presentation | ALB SM1 |
-|1230-1300| Logistics presentation | (LB SM1 |
+|1230-1300| Logistics presentation | ALB SM1 |
 |1300-1400| Lunch | ALB common room |
 |1400-1530| Project work | TBA |
 |1530-1600| Coffee | TBA |
@@ -30,7 +30,7 @@ ALB = [Ada Lovelace Building](/venue.qmd)
 
 
 
-## Friday
+### Friday
 
 | Time | Event | Place |
 |:------:|:------:|:------:|
@@ -38,5 +38,5 @@ ALB = [Ada Lovelace Building](/venue.qmd)
 |0910-1030| Final presentations | ALB SM1 |
 |1130-1100| Coffee | TBA |
 |1100-1220| Final presentations | ALB SM1 |
-|1220-1300| TBA and Event closing | ALB SM1 |
+|1220-1300| Event closing | ALB SM1 |
 |1300-1400| Lunch | ALB common room |

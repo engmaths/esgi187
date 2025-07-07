@@ -33,7 +33,7 @@ ALB = [Ada Lovelace Building](/venue.qmd)
 |1030-1100| Coffee | ALB common room |
 |1100-1300| Project work | TBA |
 |1300-1400| Lunch | ALB common room |
-|1300-1530| Project work | TBA |
+|1400-1530| Project work | TBA |
 |1530-1600| Coffee | ALB common room |
 |1600-1730| Project work | TBA |
 
@@ -47,7 +47,7 @@ ALB = [Ada Lovelace Building](/venue.qmd)
 |1130-1230| Project updates | ALB SM1 |
 |1230-1300| ESGI follow-up presentation | ALB SM1 |
 |1300-1400| Lunch | ALB common room |
-|1300-1530| Project work | TBA |
+|1400-1530| Project work | TBA |
 |1530-1600| Coffee | ALB common room |
 |1600-1730| Project work | TBA |
 
@@ -59,7 +59,7 @@ ALB = [Ada Lovelace Building](/venue.qmd)
 |1030-1100 | Coffee | ALB common room |
 |1100-1300 | Project work | TBA |
 |1300-1400 | Lunch | ALB common room |
-|1300-1530 | Project work | TBA |
+|1400-1530 | Project work | TBA |
 |1530-1600 | Coffee | ALB common room |
 |1600-1730 | Project work | TBA |
 |1730-2100 | (Optional) Project work | TBA |

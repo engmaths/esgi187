@@ -16,16 +16,7 @@ will have been allocated to someone else.
 
 ## Standard registration
 
-<<<<<<< HEAD
 Registration for the event is now closed.  Joining instructions have been emailed to everyone who has successfully registered.
-
-=======
-Please use the form below to register for ESGI 187:
-
-* [ESGI 187 registration form](https://forms.office.com/e/zVerNw68zq)
-
-There are a small number of accommodation spaces still available.  To request a space, please say that you will join the waiting list for accommodation when submitting the registration form. The organisers will contact you to confirm your accommodation and registration.
->>>>>>> refs/remotes/origin/main
 
 ## Visa invitation letters
 

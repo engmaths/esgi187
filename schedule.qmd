@@ -2,9 +2,6 @@
 title: Schedule
 ---
 
-The schedule below is tentative and subject to change.
-It will be updated over the next few days.
-
 Registration opens at 9 am Monday 14 July.  The event
 finishes at 2 pm on Friday 18 July.
 
@@ -16,27 +13,66 @@ ALB = [Ada Lovelace Building](/venue.qmd)
 |:------:|:------:|:------:|
 |0900-0945| Registration | ALB |
 |0945-1000| Introduction | ALB SM1 |
-|1000-1100| Problem presentations|  ALB SM1 |
-|1100-1130| Coffee | TBA |
+|1000-1100| Problem presentations |  ALB SM1 |
+|1100-1130| Coffee | ALB common room |
 |1130-1230| Problem presentations | ALB SM1 |
 |1230-1300| Event logistics | ALB SM1 |
 |1300-1400| Lunch | ALB common room |
 |1400-1530| Project work | TBA |
-|1530-1600| Coffee | TBA |
-|1600-1700| Project work | TBA |
-|1700-1900| Free time |  |
-|1900- | Event dinner | TBA |
+|1530-1600| Coffee | ALB common room |
+|1600-1730| Project work | TBA |
+|1730-1900| Free time |  |
+|1900- | Event dinner | [Lost and Found](https://www.lostandfoundbristol.co.uk/) |
 
 
+### Tuesday
 
+| Time | Event | Place |
+|:------:|:------:|:------:|
+|0900-1030| Project work | TBA |
+|1030-1100| Coffee | ALB common room |
+|1100-1300| Project work | TBA |
+|1300-1400| Lunch | ALB common room |
+|1300-1530| Project work | TBA |
+|1530-1600| Coffee | ALB common room |
+|1600-1730| Project work | TBA |
+
+### Wednesday
+
+| Time | Event | Place |
+|:------:|:------:|:------:|
+|0900-1000| Project work | TBA |
+|1000-1100| Project updates | ALB SM1 |
+|1100-1130| Coffee | ALB common room |
+|1130-1230| Project updates | ALB SM1 |
+|1230-1300| ESGI follow-up presentation | ALB SM1 |
+|1300-1400| Lunch | ALB common room |
+|1300-1530| Project work | TBA |
+|1530-1600| Coffee | ALB common room |
+|1600-1730| Project work | TBA |
+
+### Thursday
+
+| Time | Event | Place |
+|:------:|:------:|:------:|
+|0900-1030 | Project work | TBA |
+|1030-1100 | Coffee | ALB common room |
+|1100-1300 | Project work | TBA |
+|1300-1400 | Lunch | ALB common room |
+|1300-1530 | Project work | TBA |
+|1530-1600 | Coffee | ALB common room |
+|1600-1730 | Project work | TBA |
+|1730-2100 | (Optional) Project work | TBA |
+|1830 | (Optional) Pizza and drinks | ALB common room |
 
 ### Friday
 
 | Time | Event | Place |
 |:------:|:------:|:------:|
 |0900-0910| Arrival | ALB |
-|0910-1030| Final presentations | ALB SM1 |
-|1130-1100| Coffee | TBA |
-|1100-1220| Final presentations | ALB SM1 |
-|1220-1300| Event closing | ALB SM1 |
+|0910-1030| Group presentations | ALB SM1 |
+|1030-1100| Coffee | ALB common room |
+|1100-1220| Group presentations | ALB SM1 |
+|1220-1230| Presentation from the KE Hub | ALB SM1 |
+|1230-1300| Event closing | ALB SM1 |
 |1300-1400| Lunch | ALB common room |

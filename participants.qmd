@@ -6,24 +6,34 @@ Please read below for information about registration,
 accommodation, lunches, and evening events.
 
 
-# Registration
+## Room allocation for projects
 
-[Event registration](registration.qmd) is now open.
+TBA
+
+## Report inappropriate behaviour
+
+Use the form below to anonymously report inappropriate behaviour
+at ESGI 187.  The form will only be read by study group organisers.
+
+* [Report an inappropriate behaviour](https://forms.office.com/e/EXxQkMDjdL)
+
+## Colemanballs
+
+Use the form below to submit a Colemanball that you overheard!
+
+* [Submit a Colemanballs](https://forms.office.com/e/7P7gDrNnw3)
+
+## Accommodation
+
+A welcome pack with accommodation details has been emailed to everyone who has been allocated a room in university accommodation.  If you have not received this but are expected to stay in a room, please [contact the organisers](/contact.qmd).
 
 
-# Accommodation
-
-A limited number of rooms in university accommodation have been reserved for ESGI participants and problem presenters.  These rooms are available from Monday 14 to Friday 18 July.  A smaller number of rooms are available from Sunday 13 July to Friday 18 July.  Accommodation can be requested during event registration and will be provided free of charge.
-
-Rooms include a private queen-sized bed with pillows and linen, desk with chair, shower pod (shower, mirror, toilet, sink).  Towels will be provided.  All rooms are in flats.  Each flat has a communal space with kitchen, table with chairs, and a sofa.
-
-Please note: the accommodation provided is not accessible; all rooms are in flats that are accessed by stairs.  The rooms are self-catering and a shared kitchen space is provided.
-
-
-# Lunches
+## Lunches
 
 Lunch will be provided free of charge.  Lunch will take place in the common room of the [Ada Lovelace Building](venue.qmd).
 
-# Evening events
+## Evening events
 
-TBA
+There is a group dinner on Monday night at [Lost and Found](https://www.lostandfoundbristol.co.uk/) starting at 1900.
+
+On Thursday, the Ada Lovelace Building will be open until 10 pm.  Pizza and drinks will be served starting from 1800.

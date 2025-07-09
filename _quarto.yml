@@ -7,12 +7,9 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: industry.qmd
-        text: For organisations
       - href: participants.qmd
         text: For participants
       - schedule.qmd
-      - registration.qmd
       - href: problems.qmd
         text: Problems
       - conduct.qmd

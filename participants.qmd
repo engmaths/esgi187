@@ -8,7 +8,21 @@ accommodation, lunches, and evening events.
 
 ## Room allocation for projects
 
-TBA
+ALB = [Ada Lovelace Building](/venue.qmd)
+
+IGB = [Ivy Gate Building](/venue.qmd)
+
+| Project | Room | 
+|:------:|:------:|
+|CameraForensics | IGB 1.01 |
+|Mapscape | ALB SM4 |
+|NATS | ALB SM3 |
+|Paebbl | IGB G.01 |
+|Stream | ALB SM2 |
+|SS Great Britain | IGB G.01 |
+|Surveyr | IGB 1.01 |
+|VodafoneThree | ALB SM1 |
+
 
 ## Report inappropriate behaviour
 

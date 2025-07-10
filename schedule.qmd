@@ -18,9 +18,9 @@ ALB = [Ada Lovelace Building](/venue.qmd)
 |1130-1230| Problem presentations | ALB SM1 |
 |1230-1300| Event logistics | ALB SM1 |
 |1300-1400| Lunch | ALB common room |
-|1400-1530| Project work | TBA |
+|1400-1530| Project work | [Project rooms](/participants.qmd) |
 |1530-1600| Coffee | ALB common room |
-|1600-1730| Project work | TBA |
+|1600-1730| Project work | [Project rooms](/participants.qmd) |
 |1730-1900| Free time |  |
 |1900- | Event dinner | [Lost and Found](https://www.lostandfoundbristol.co.uk/) |
 
@@ -29,41 +29,41 @@ ALB = [Ada Lovelace Building](/venue.qmd)
 
 | Time | Event | Place |
 |:------:|:------:|:------:|
-|0900-1030| Project work | TBA |
+|0900-1030| Project work | [Project rooms](/participants.qmd) |
 |1030-1100| Coffee | ALB common room |
-|1100-1300| Project work | TBA |
+|1100-1300| Project work | [Project rooms](/participants.qmd) |
 |1300-1400| Lunch | ALB common room |
-|1400-1530| Project work | TBA |
+|1400-1530| Project work | [Project rooms](/participants.qmd) |
 |1530-1600| Coffee | ALB common room |
-|1600-1730| Project work | TBA |
+|1600-1730| Project work | [Project rooms](/participants.qmd) |
 
 ### Wednesday
 
 | Time | Event | Place |
 |:------:|:------:|:------:|
-|0900-1000| Project work | TBA |
+|0900-1000| Project work | [Project rooms](/participants.qmd) |
 |1000-1100| Project updates | ALB SM1 |
 |1100-1130| Coffee | ALB common room |
 |1130-1230| Project updates | ALB SM1 |
 |1230-1255| ESGI follow-up presentation | ALB SM1 |
 |1255-1300| Special tribute | ALB SM1 |
 |1300-1400| Lunch | ALB common room |
-|1400-1530| Project work | TBA |
+|1400-1530| Project work | [Project rooms](/participants.qmd) |
 |1530-1600| Coffee | ALB common room |
-|1600-1730| Project work | TBA |
+|1600-1730| Project work | [Project rooms](/participants.qmd) |
 
 ### Thursday
 
 | Time | Event | Place |
 |:------:|:------:|:------:|
-|0900-1030 | Project work | TBA |
+|0900-1030 | Project work | [Project rooms](/participants.qmd) |
 |1030-1100 | Coffee | ALB common room |
-|1100-1300 | Project work | TBA |
+|1100-1300 | Project work | [Project rooms](/participants.qmd) |
 |1300-1400 | Lunch | ALB common room |
-|1400-1530 | Project work | TBA |
+|1400-1530 | Project work | [Project rooms](/participants.qmd) |
 |1530-1600 | Coffee | ALB common room |
-|1600-1730 | Project work | TBA |
-|1730-2100 | (Optional) Project work | TBA |
+|1600-1730 | Project work | [Project rooms](/participants.qmd) |
+|1730-2100 | (Optional) Project work | [Project rooms](/participants.qmd) |
 |1830 | (Optional) Pizza and drinks | ALB common room |
 
 ### Friday

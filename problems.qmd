@@ -11,4 +11,4 @@ Please find the final list of ESGI 187 problem descriptions below.
 * [Stream](/assets/descriptions/Stream.pdf)
 * [SS Great Britain](/assets/descriptions/SS_Great_Britain.pdf)
 * [Surveyr](/assets/descriptions/Surveyr.pdf)
-* VodafoneThree - problem description TBA
+* [VodafoneThree](/assets/descriptions/VodafoneThree.pdf)

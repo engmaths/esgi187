@@ -45,7 +45,8 @@ ALB = [Ada Lovelace Building](/venue.qmd)
 |1000-1100| Project updates | ALB SM1 |
 |1100-1130| Coffee | ALB common room |
 |1130-1230| Project updates | ALB SM1 |
-|1230-1300| ESGI follow-up presentation | ALB SM1 |
+|1230-1255| ESGI follow-up presentation | ALB SM1 |
+|1255-1300| Special tribute | ALB SM1 |
 |1300-1400| Lunch | ALB common room |
 |1400-1530| Project work | TBA |
 |1530-1600| Coffee | ALB common room |

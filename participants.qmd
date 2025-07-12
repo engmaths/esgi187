@@ -35,11 +35,11 @@ at ESGI 187.  The form will only be read by study group organisers.
 
 Use the form below to submit a Colemanball that you overheard!
 
-* [Submit a Colemanballs](https://forms.office.com/e/7P7gDrNnw3)
+* [Submit a Colemanball](https://forms.office.com/e/7P7gDrNnw3)
 
 ## Accommodation
 
-A welcome pack with accommodation details has been emailed to everyone who has been allocated a room in university accommodation.  If you have not received this but are expected to stay in a room, please [contact the organisers](/contact.qmd).
+A welcome pack with accommodation details has been emailed to everyone who has been allocated a room in university accommodation.  If you have not received this but are expecting to stay in a room, please [contact the organisers](/contact.qmd).
 
 
 ## Lunches
@@ -50,4 +50,4 @@ Lunch will be provided free of charge.  Lunch will take place in the common room
 
 There is a group dinner on Monday night at [Lost and Found](https://www.lostandfoundbristol.co.uk/) starting at 1900.
 
-On Thursday, the Ada Lovelace Building will be open until 10 pm.  Pizza and drinks will be served starting from 1800.
+On Thursday, the Ada Lovelace Building will be open until 2100.  Pizza and drinks will be served starting from 1800.
